@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+data/
+*.csv
+*.npy
+*.fth
+models/
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/

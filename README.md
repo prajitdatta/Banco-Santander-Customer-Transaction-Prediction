@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏦 Santander Customer Transaction Prediction
+# 🏦 Banco Santander Customer Transaction Prediction
 
 ### A Custom Neural Network with Attention-Weighted Feature Embeddings and Shuffle Augmentation
 
